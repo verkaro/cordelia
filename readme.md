@@ -168,6 +168,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 🙏 Credits
 
-* **Project Owner / Lead Developer**: [Your Name/Handle Here]
+* **Project Owner / Lead Developer**: Verkaro
 * **Implementation Assistance**: Gemini, a large language model from Google.
 
